@@ -7,6 +7,7 @@ public class Version1 {
 		
 		System.out.println("i am in master branch");
 		System.out.println("bug fix in branch name fearture 2");
+		System.out.println("update through feaure 3");
 		
 	}
 
